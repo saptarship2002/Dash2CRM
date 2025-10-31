@@ -14,7 +14,7 @@ app.title = "Global Mineral Dashboard"
 # --- 2. Load Data and Define Layout ---
 try:
     # --- MODIFIED LINE: Load data from the provided GitHub URL ---
-    data_url = 'https://raw.githubusercontent.com/saptarship2002/Dash2CRM/refs/heads/main/final%201.csv'
+    data_url = 'https://raw.githubusercontent.com/saptarship2002/Mineral-Dashboard-ACPET/refs/heads/main/final%201.csv'
     df = pd.read_csv(data_url)
     # --- END OF MODIFICATION ---
 
