@@ -1,5 +1,0 @@
-{
-  "routes": [
-    { "src": "/(.*)", "dest": "https://mineral-dashboard-acpet.onrender.com" }
-  ]
-}
